@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🕸 Passionate web developer (aka Spider-Man) willing to learn new things every day.
+👁 JavaScript enthusiast, with an eye for detail.
+👩🏼‍💻 In the IT business for more than two years. Primarily developing in JavaScript and PHP ( VueJs / Laravel ), but eager to learn new technologies! 
+
+
+🏗 Highly skilled in both front-end and back-end but currently focusing just on front-end. I have an experience with SaaS applications with REST APIs, relational databases and complicated front-end components. 
+🏧 I have been and still am collecting knowledge about Payment integrations with various payment processors.
+
+📚 Also passionate about knowledge sharing, writing, and investigating programming topics! 
+
+👑 Current goal: mastering JavaScript and VueJs
