@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 🏗 Highly skilled in both front-end and back-end but currently focusing just on front-end. I have an experience with SaaS applications with REST APIs, relational databases and complicated front-end components.
 
-🏧 I have been and still am collecting knowledge about Payment integrations with various payment processors.
+🏧 I have been and still am collecting knowledge about *payment integrations* with various payment processors.
 
 
 📚 Also passionate about knowledge sharing, writing, and investigating programming topics!
