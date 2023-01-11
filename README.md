@@ -23,9 +23,11 @@ Here are some ideas to get you started:
 
 
 
-🏗 Highly skilled in both front-end and back-end but currently focusing just on front-end. I have experience with SaaS applications with REST APIs, relational databases, and complicated front-end components.
+🏗 Highly skilled in full stack development but currently focusing just on front-end. I have experience with SaaS applications with REST APIs, relational databases, MVC architecture and advanced front-end concepts and topics.
 
-🏧 I have been collecting knowledge about payment integrations since I work daily with various *payment processors*.
+🏧 I have been collecting knowledge about payment integrations since I work with various *payment processors* on a daily basis 
+
+⚡ My active profile https://github.com/olja-ivkovic where I contribute to MENU Technologies
 
 
 
