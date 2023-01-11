@@ -19,16 +19,16 @@ Here are some ideas to get you started:
 
 👁 JavaScript enthusiast, with an eye for detail.
 
-👩🏼‍💻 In the IT business for more than two years. Primarily developing in JavaScript and PHP ( VueJs / Laravel ), but eager to learn new technologies!
+👩🏼‍💻 In the IT business for three years. Primarily developing in JavaScript and PHP ( VueJs / Laravel ), but eager to learn new technologies!
 
 
 
 🏗 Highly skilled in both front-end and back-end but currently focusing just on front-end. I have experience with SaaS applications with REST APIs, relational databases, and complicated front-end components.
 
-🏧 I have been collecting knowledge about payment integrations with various *payment processors*.
+🏧 I have been collecting knowledge about payment integrations since I work daily with various *payment processors*.
 
 
 
 📚 Also passionate about knowledge sharing, writing, and investigating programming topics!
 
-👑 Current goal: mastering JavaScript and VueJs
+👑 Current goal: mastering JavaScript and TypeScript
