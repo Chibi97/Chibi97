@@ -19,15 +19,13 @@ Here are some ideas to get you started:
 
 👁 JavaScript enthusiast, with an eye for detail.
 
-👩🏼‍💻 In the IT business for more than five years. Primarily developing in JavaScript and PHP ( VueJs / Laravel ), but eager to learn any modern technology!
+👩🏼‍💻 In the IT business for more than five years. Primarily developing in JavaScript and PHP ( VueJs, React / Laravel ), but eager to learn any modern technology!
 
 
 
-🏗 Highly skilled in full stack development but currently focusing just on front-end. I have experience with SaaS applications with REST APIs, relational databases, MVC architecture and advanced front-end concepts and topics.
+🏗 Highly skilled in full stack development but currently focusing just on front-end. I have experience with SaaS applications with REST APIs, relational databases, MVC architecture, and advanced front-end concepts and topics.
 
 🏧 I have been collecting knowledge about payment integrations since I worked with various *payment processors* for two years.
-
-⚡ My profile https://github.com/olja-ivkovic where I contributed to PAR Ordering
 
 
 
