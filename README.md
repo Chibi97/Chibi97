@@ -19,16 +19,15 @@ Here are some ideas to get you started:
 
 👁 JavaScript enthusiast, with an eye for detail.
 
-👩🏼‍💻 In the IT business for more than five years. Primarily developing in JavaScript and PHP ( VueJs, React / Laravel ), but eager to learn any modern technology!
+👩🏼‍💻 In the IT business for more than five years. Primarily developing in JavaScript ( VueJs, React, Node, TS ), but eager to learn any modern technology!
+
+🔭 Currently contributing to GoDaddy Corp via this account: https://github.com/oivkovic-godaddy
 
 
-
-🏗 Highly skilled in full stack development but currently focusing just on front-end. I have experience with SaaS applications with REST APIs, relational databases, MVC architecture, and advanced front-end concepts and topics.
+🏗 Highly skilled in full-stack development with a focus on the front-end. Experienced with SaaS apps, REST APIs, Backend For Frontend, MVC architecture, relational and non-relational databases... as well as micro-frontends, components' lifecycles & hooks, state management & its' libraries, SSR & SSG, web vitals, all JavaScript caveats, unit testing, advanced TypeScript, NX monorepos and Turborepo.
 
 🏧 I have been collecting knowledge about payment integrations since I worked with various *payment processors* for two years.
 
-
-
 📚 Also passionate about knowledge sharing, writing, and investigating programming topics!
 
-👑 Current goal: mastering JavaScript and TypeScript
+👑 Currently diving into the backend side of JavaScript (Node), so the goal is to master it!
