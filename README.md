@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 👁 JavaScript enthusiast, with an eye for detail.
 
-👩🏼‍💻 In the IT business for more than five years. Primarily developing in JavaScript ( VueJs, React, Node, TS ), but eager to learn any modern technology!
+👩🏼‍💻 In the IT business for more than five years. Primarily developing in JavaScript ( VueJs, React, Node, TS ) and PHP (Laravel & Yii), but eager to learn any modern technology!
 
 🔭 Currently contributing to GoDaddy Corp via this account: https://github.com/oivkovic-godaddy
 
